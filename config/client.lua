@@ -68,7 +68,7 @@ return {
 
         firstButton = {
             text = 'DISCORD',
-            link = 'https://discord.gg/StjhJ9g',
+            link = 'https://discord.gg/gB3mxj4euq',
         },
 
         secondButton = {
