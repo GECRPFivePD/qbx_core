@@ -13,62 +13,114 @@ return {
         },
     },
     ['police'] = {
-        label = 'LSPD',
+        label = 'BSO',
         type = 'leo',
-        defaultDuty = true,
+        defaultDuty = false,
         offDutyPay = false,
         grades = {
             [0] = {
-                name = 'Recruit',
+                name = 'Cadet',
                 payment = 50
             },
             [1] = {
-                name = 'Officer',
+                name = 'Deputy I',
                 payment = 75
             },
             [2] = {
-                name = 'Sergeant',
+                name = 'Deputy II',
                 payment = 100
             },
             [3] = {
-                name = 'Lieutenant',
+                name = 'BSO Corporal',
                 payment = 125
             },
             [4] = {
-                name = 'Chief',
+                name = 'BSO Major',
+                payment = 150
+            },
+            [5] = {
+                name = 'BSO Lt. Colonel',
+                payment = 175
+            },
+            [6] = {
+                name = 'BSO Colonel',
                 isboss = true,
                 bankAuth = true,
-                payment = 150
+                payment = 200
+            },
+            [7] = {
+                name = 'Under Sheriff',
+                isboss = true,
+                bankAuth = true,
+                payment = 225
+            },
+            [8] = {
+                name = 'Sheriff',
+                isboss = true,
+                bankAuth = true,
+                payment = 250
             },
         },
     },
     ['bcso'] = {
-        label = 'BCSO',
+        label = 'FHP',
         type = 'leo',
-        defaultDuty = true,
+        defaultDuty = false,
         offDutyPay = false,
         grades = {
             [0] = {
-                name = 'Recruit',
+                name = 'Trooper',
                 payment = 50
             },
             [1] = {
-                name = 'Officer',
+                name = 'Trooper-FC',
                 payment = 75
             },
             [2] = {
-                name = 'Sergeant',
+                name = 'Senior Trooper',
                 payment = 100
             },
             [3] = {
-                name = 'Lieutenant',
+                name = 'FHP Corporal',
                 payment = 125
             },
+            [3] = {
+                name = 'FHP Sr. Corporal',
+                payment = 150
+            },
+            [3] = {
+                name = 'FHP Sergeant',
+                payment = 175
+            },
+            [3] = {
+                name = 'FHP Sergeant-FC',
+                payment = 200
+            },
+            [3] = {
+                name = 'FHP Lieutenant',
+                payment = 225
+            },
+            [3] = {
+                name = 'FHP Captain',
+                payment = 250
+            },
             [4] = {
-                name = 'Chief',
+                name = 'FHP Major',
                 isboss = true,
                 bankAuth = true,
-                payment = 150
+                payment = 275
+            },
+            [4] = {
+                name = 'FHP Lt. Colonel',
+                isboss = true,
+                bankAuth = true,
+                payment = 300
+            },
+            [4] = {
+                name = 'FHP Colonel',
+                isboss = true,
+                bankAuth = true,
+                payment = 325
             },
         },
     },
