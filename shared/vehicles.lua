@@ -7775,5 +7775,14 @@ return {
         category = 'sportsclassics',
         type = 'automobile',
         hash = `ztype`,
-    }
+    },
+    nkstanier = {
+        name = 'Police Stainer',
+        brand = 'Stainer',
+        model = 'nkstanier',
+        price = 0,
+        category = 'police',
+        type = 'automobile',
+        hash = `nkstanier`,
+    },
 }
