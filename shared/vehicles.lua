@@ -108,7 +108,7 @@ return {
         type = 'heli',
         hash = `annihilator2`,
     },
-    apc = {
+    --[[apc = {
         name = 'APC',
         brand = 'HVY',
         model = 'apc',
@@ -125,7 +125,7 @@ return {
         category = 'sportsclassics',
         type = 'automobile',
         hash = `ardent`,
-    },
+    },--]]
     armytanker = {
         name = 'Army Trailer (Tanker)',
         brand = '',
@@ -225,7 +225,7 @@ return {
         type = 'bike',
         hash = `avarus`,
     },
-    avenger = {
+    --[[avenger = {
         name = 'Avenger',
         brand = 'Mammoth',
         model = 'avenger',
@@ -260,7 +260,7 @@ return {
         category = 'planes',
         type = 'plane',
         hash = `avenger4`,
-    },
+    },--]]
     avisa = {
         name = 'Avisa',
         brand = 'Kraken',
@@ -405,7 +405,7 @@ return {
         type = 'automobile',
         hash = `barracks3`,
     },
-    barrage = {
+    --[[barrage = {
         name = 'Barrage',
         brand = 'HVY',
         model = 'barrage',
@@ -413,7 +413,7 @@ return {
         category = 'military',
         type = 'automobile',
         hash = `barrage`,
-    },
+    },--]]
     bati = {
         name = 'Bati 801',
         brand = 'Pegassi',
@@ -792,7 +792,7 @@ return {
         type = 'automobile',
         hash = `brickade`,
     },
-    brickade2 = {
+    --[[brickade2 = {
         name = 'Brickade 6x6',
         brand = 'MTL',
         model = 'brickade2',
@@ -800,7 +800,7 @@ return {
         category = 'service',
         type = 'automobile',
         hash = `brickade2`,
-    },
+    },--]]
     brigham = {
         name = 'Brigham',
         brand = 'Albany',
@@ -846,7 +846,7 @@ return {
         type = 'automobile',
         hash = `broadway`,
     },
-    bruiser = {
+    --[[bruiser = {
         name = 'Apocalypse Bruiser',
         brand = 'Benefactor',
         model = 'bruiser',
@@ -899,7 +899,7 @@ return {
         category = 'offroad',
         type = 'automobile',
         hash = `brutus3`,
-    },
+    },--]]
     btype = {
         name = 'Roosevelt',
         brand = 'Albany',
@@ -1134,7 +1134,7 @@ return {
         type = 'automobile',
         hash = `camper`,
     },
-    caracara = {
+    --[[caracara = {
         name = 'Caracara',
         brand = 'Vapid',
         model = 'caracara',
@@ -1142,7 +1142,7 @@ return {
         category = 'offroad',
         type = 'automobile',
         hash = `caracara`,
-    },
+    },--]]
     caracara2 = {
         name = 'Caracara 4x4',
         brand = 'Vapid',
@@ -1269,7 +1269,7 @@ return {
         type = 'automobile',
         hash = `cavalcade3`,
     },
-    cerberus = {
+    --[[cerberus = {
         name = 'Apocalypse Cerberus',
         brand = 'MTL',
         model = 'cerberus',
@@ -1304,7 +1304,7 @@ return {
         category = 'super',
         type = 'automobile',
         hash = `champion`,
-    },
+    },--]]
     cheburek = {
         name = 'Cheburek',
         brand = 'RUNE',
@@ -1332,7 +1332,7 @@ return {
         type = 'automobile',
         hash = `cheetah2`,
     },
-    chernobog = {
+    --[[chernobog = {
         name = 'Chernobog',
         brand = 'HVY',
         model = 'chernobog',
@@ -1340,7 +1340,7 @@ return {
         category = 'military',
         type = 'automobile',
         hash = `chernobog`,
-    },
+    },--]]
     chimera = {
         name = 'Chimera',
         brand = 'Nagasaki',
@@ -1683,7 +1683,7 @@ return {
         type = 'bike',
         hash = `daemon2`,
     },
-    deathbike = {
+    --[[deathbike = {
         name = 'Apocalypse Deathbike',
         brand = 'Western',
         model = 'deathbike',
@@ -1709,7 +1709,7 @@ return {
         category = 'motorcycles',
         type = 'bike',
         hash = `deathbike3`,
-    },
+    },--]]
     defiler = {
         name = 'Defiler',
         brand = 'Shitzu',
@@ -1719,7 +1719,7 @@ return {
         type = 'bike',
         hash = `defiler`,
     },
-    deity = {
+    --[[deity = {
         name = 'Deity',
         brand = 'Enus',
         model = 'deity',
@@ -1736,7 +1736,7 @@ return {
         category = 'sportsclassics',
         type = 'automobile',
         hash = `deluxo`,
-    },
+    },--]]
     deveste = {
         name = 'Deveste',
         brand = 'Principe',
@@ -1908,7 +1908,7 @@ return {
         type = 'automobile',
         hash = `dominator4`,
     },
-    dominator5 = {
+    --[[dominator5 = {
         name = 'Future Shock Dominator',
         brand = 'Vapid',
         model = 'dominator5',
@@ -1925,7 +1925,7 @@ return {
         category = 'muscle',
         type = 'automobile',
         hash = `dominator6`,
-    },
+    },--]]
     dominator7 = {
         name = 'Dominator ASP',
         brand = 'Vapid',
@@ -2187,7 +2187,7 @@ return {
         type = 'automobile',
         hash = `dune2`,
     },
-    dune3 = {
+    --[[dune3 = {
         name = 'Dune FAV',
         brand = 'BF',
         model = 'dune3',
@@ -2195,7 +2195,7 @@ return {
         category = 'offroad',
         type = 'automobile',
         hash = `dune3`,
-    },
+    },--]]
     dune4 = {
         name = 'Ramp Buggy',
         brand = 'BF',
@@ -3006,7 +3006,7 @@ return {
         type = 'bike',
         hash = `hakuchou2`,
     },
-    halftrack = {
+    --[[halftrack = {
         name = 'Half-track',
         brand = 'Bravado',
         model = 'halftrack',
@@ -3014,7 +3014,7 @@ return {
         category = 'military',
         type = 'automobile',
         hash = `halftrack`,
-    },
+    },--]]
     handler = {
         name = 'Dock Handler',
         brand = 'HVY',
@@ -3168,7 +3168,7 @@ return {
         type = 'automobile',
         hash = `impaler`,
     },
-    impaler2 = {
+    --[[impaler2 = {
         name = 'Apocalypse Impaler',
         brand = 'Declasse',
         model = 'impaler2',
@@ -3194,7 +3194,7 @@ return {
         category = 'muscle',
         type = 'automobile',
         hash = `impaler4`,
-    },
+    },--]]
     impaler5 = {
         name = 'Impaler SZ',
         brand = 'Declasse',
@@ -3222,7 +3222,7 @@ return {
         type = 'automobile',
         hash = `imperator`,
     },
-    imperator2 = {
+    --[[imperator2 = {
         name = 'Future Shock Imperator',
         brand = 'Vapid',
         model = 'imperator2',
@@ -3239,7 +3239,7 @@ return {
         category = 'muscle',
         type = 'automobile',
         hash = `imperator3`,
-    },
+    },--]]
     inductor = {
         name = 'Inductor',
         brand = 'Coil',
@@ -3294,7 +3294,7 @@ return {
         type = 'bike',
         hash = `innovation`,
     },
-    insurgent = {
+    --[[insurgent = {
         name = 'Insurgent Pick-Up',
         brand = 'HVY',
         model = 'insurgent',
@@ -3302,7 +3302,7 @@ return {
         category = 'offroad',
         type = 'automobile',
         hash = `insurgent`,
-    },
+    },--]]
     insurgent2 = {
         name = 'Insurgent',
         brand = 'HVY',
@@ -3312,7 +3312,7 @@ return {
         type = 'automobile',
         hash = `insurgent2`,
     },
-    insurgent3 = {
+    --[[insurgent3 = {
         name = 'Insurgent Pick-Up Custom',
         brand = 'HVY',
         model = 'insurgent3',
@@ -3320,7 +3320,7 @@ return {
         category = 'offroad',
         type = 'automobile',
         hash = `insurgent3`,
-    },
+    },--]]
     intruder = {
         name = 'Intruder',
         brand = 'Karin',
@@ -3348,7 +3348,7 @@ return {
         type = 'automobile',
         hash = `issi3`,
     },
-    issi4 = {
+    --[[issi4 = {
         name = 'Apocalypse Issi',
         brand = 'Weeny',
         model = 'issi4',
@@ -3374,7 +3374,7 @@ return {
         category = 'compacts',
         type = 'automobile',
         hash = `issi6`,
-    },
+    },--]]
     issi7 = {
         name = 'Issi Sport',
         brand = 'Weeny',
@@ -3456,7 +3456,7 @@ return {
         type = 'automobile',
         hash = `jb700`,
     },
-    jb7002 = {
+    --[[jb7002 = {
         name = 'JB 700W',
         brand = 'Dewbauchee',
         model = 'jb7002',
@@ -3464,7 +3464,7 @@ return {
         category = 'sportsclassics',
         type = 'automobile',
         hash = `jb7002`,
-    },
+    },--]]
     jester = {
         name = 'Jester',
         brand = 'Dinka',
@@ -3537,7 +3537,7 @@ return {
         type = 'automobile',
         hash = `journey2`,
     },
-    jubilee = {
+    --[[jubilee = {
         name = 'Jubilee',
         brand = 'Enus',
         model = 'jubilee',
@@ -3545,7 +3545,7 @@ return {
         category = 'suvs',
         type = 'automobile',
         hash = `jubilee`,
-    },
+    },--]]
     jugular = {
         name = 'Jugular',
         brand = 'Ocelot',
@@ -3600,7 +3600,7 @@ return {
         type = 'automobile',
         hash = `khamelion`,
     },
-    khanjali = {
+    --[[khanjali = {
         name = 'TM-02 Khanjali',
         brand = '',
         model = 'khanjali',
@@ -3608,7 +3608,7 @@ return {
         category = 'military',
         type = 'automobile',
         hash = `khanjali`,
-    },
+    },--]]
     komoda = {
         name = 'Komoda',
         brand = 'Lampadati',
@@ -3618,7 +3618,7 @@ return {
         type = 'automobile',
         hash = `komoda`,
     },
-    kosatka = {
+    --[[kosatka = {
         name = 'Kosatka',
         brand = 'RUNE',
         model = 'kosatka',
@@ -3626,7 +3626,7 @@ return {
         category = 'boats',
         type = 'boat',
         hash = `kosatka`,
-    },
+    },--]]
     krieger = {
         name = 'Krieger',
         brand = 'Benefactor',
@@ -3897,7 +3897,7 @@ return {
         type = 'heli',
         hash = `maverick`,
     },
-    menacer = {
+    --[[menacer = {
         name = 'Menacer',
         brand = 'HVY',
         model = 'menacer',
@@ -3905,7 +3905,7 @@ return {
         category = 'offroad',
         type = 'automobile',
         hash = `menacer`,
-    },
+    },--]]
     mesa = {
         name = 'Mesa',
         brand = 'Canis',
@@ -3969,7 +3969,7 @@ return {
         type = 'plane',
         hash = `miljet`,
     },
-    minitank = {
+    --[[minitank = {
         name = 'Invade and Persuade Tank',
         brand = '',
         model = 'minitank',
@@ -3977,7 +3977,7 @@ return {
         category = 'military',
         type = 'automobile',
         hash = `minitank`,
-    },
+    },--]]
     minivan = {
         name = 'Minivan',
         brand = 'Vapid',
@@ -4050,7 +4050,7 @@ return {
         type = 'automobile',
         hash = `monster`,
     },
-    monster3 = {
+    --[[monster3 = {
         name = 'Apocalypse Sasquatch',
         brand = 'Bravado',
         model = 'monster3',
@@ -4076,7 +4076,7 @@ return {
         category = 'offroad',
         type = 'automobile',
         hash = `monster5`,
-    },
+    },--]]
     monstrociti = {
         name = 'MonstroCiti',
         brand = 'Maibatsu',
@@ -4140,7 +4140,7 @@ return {
         type = 'automobile',
         hash = `mule3`,
     },
-    mule4 = {
+    --[[mule4 = {
         name = 'Mule Custom',
         brand = 'Maibatsu',
         model = 'mule4',
@@ -4148,7 +4148,7 @@ return {
         category = 'commercial',
         type = 'automobile',
         hash = `mule4`,
-    },
+    },--]]
     mule5 = {
         name = 'Box Truck Mule',
         brand = 'Maibatsu',
@@ -4230,7 +4230,7 @@ return {
         type = 'automobile',
         hash = `nightshade`,
     },
-    nightshark = {
+    --[[nightshark = {
         name = 'Nightshark',
         brand = 'HVY',
         model = 'nightshark',
@@ -4238,7 +4238,7 @@ return {
         category = 'offroad',
         type = 'automobile',
         hash = `nightshark`,
-    },
+    },--]]
     nimbus = {
         name = 'Nimbus',
         brand = 'Buckingham',
@@ -4302,7 +4302,7 @@ return {
         type = 'automobile',
         hash = `omnis`,
     },
-    omnisegt = {
+    --[[omnisegt = {
         name = 'Omnis e-GT',
         brand = 'Obey',
         model = 'omnisegt',
@@ -4310,7 +4310,7 @@ return {
         category = 'sports',
         type = 'automobile',
         hash = `omnisegt`,
-    },
+    },--]]
     openwheel1 = {
         name = 'BR8',
         brand = 'Benefactor',
@@ -4329,7 +4329,7 @@ return {
         type = 'automobile',
         hash = `openwheel2`,
     },
-    oppressor = {
+    --[[oppressor = {
         name = 'Oppressor',
         brand = 'Pegassi',
         model = 'oppressor',
@@ -4346,7 +4346,7 @@ return {
         category = 'motorcycles',
         type = 'bike',
         hash = `oppressor2`,
-    },
+    },--]]
     oracle = {
         name = 'Oracle XS',
         brand = 'Übermacht',
@@ -4428,7 +4428,7 @@ return {
         type = 'automobile',
         hash = `paragon`,
     },
-    paragon2 = {
+    --[[paragon2 = {
         name = 'Paragon R (Armored)',
         brand = 'Enus',
         model = 'paragon2',
@@ -4436,7 +4436,7 @@ return {
         category = 'sports',
         type = 'automobile',
         hash = `paragon2`,
-    },
+    },--]]
     paragon3 = {
         name = 'Paragon S',
         brand = 'Enus',
@@ -4473,7 +4473,7 @@ return {
         type = 'automobile',
         hash = `patriot2`,
     },
-    patriot3 = {
+    --[[patriot3 = {
         name = 'Mil-Spec Patriot',
         brand = 'Mammoth',
         model = 'patriot3',
@@ -4481,7 +4481,7 @@ return {
         category = 'offroad',
         type = 'automobile',
         hash = `patriot3`,
-    },
+    },--]]
     patrolboat = {
         name = 'Kurtz 31 Patrol Boat',
         brand = '',
@@ -4851,7 +4851,7 @@ return {
         type = 'automobile',
         hash = `pounder`,
     },
-    pounder2 = {
+    --[[pounder2 = {
         name = 'Pounder Custom',
         brand = 'MTL',
         model = 'pounder2',
@@ -4859,7 +4859,7 @@ return {
         category = 'commercial',
         type = 'automobile',
         hash = `pounder2`,
-    },
+    },--]]
     powersurge = {
         name = 'Powersurge',
         brand = 'Western',
@@ -4887,7 +4887,7 @@ return {
         type = 'automobile',
         hash = `pranger`,
     },
-    predator = {
+    --[[predator = {
         name = 'Police Predator',
         brand = '',
         model = 'predator',
@@ -4895,7 +4895,7 @@ return {
         category = 'boats',
         type = 'boat',
         hash = `predator`,
-    },
+    },--]]
     premier = {
         name = 'Premier',
         brand = 'Declasse',
@@ -4959,7 +4959,7 @@ return {
         type = 'plane',
         hash = `pyro`,
     },
-    r300 = {
+    --[[r300 = {
         name = '300R',
         brand = 'Annis',
         model = 'r300',
@@ -4967,7 +4967,7 @@ return {
         category = 'sports',
         type = 'automobile',
         hash = `r300`,
-    },
+    },--]]
     radi = {
         name = 'Radius',
         brand = 'Vapid',
@@ -5103,7 +5103,7 @@ return {
         type = 'automobile',
         hash = `ratloader2`,
     },
-    rcbandito = {
+    --[[rcbandito = {
         name = 'RC Bandito',
         brand = '',
         model = 'rcbandito',
@@ -5111,7 +5111,7 @@ return {
         category = 'offroad',
         type = 'automobile',
         hash = `rcbandito`,
-    },
+    },--]]
     reaper = {
         name = 'Reaper',
         brand = 'Pegassi',
@@ -5247,7 +5247,7 @@ return {
         type = 'automobile',
         hash = `riata`,
     },
-    riot = {
+    --[[riot = {
         name = 'Police Riot',
         brand = 'Brute',
         model = 'riot',
@@ -5264,7 +5264,7 @@ return {
         category = 'emergency',
         type = 'automobile',
         hash = `riot2`,
-    },
+    },--]]
     ripley = {
         name = 'Ripley',
         brand = 'HVY',
@@ -5526,7 +5526,7 @@ return {
         type = 'automobile',
         hash = `sc1`,
     },
-    scarab = {
+    --[[scarab = {
         name = 'Apocalypse Scarab',
         brand = 'HVY',
         model = 'scarab',
@@ -5552,7 +5552,7 @@ return {
         category = 'military',
         type = 'automobile',
         hash = `scarab3`,
-    },
+    },--]]
     schafter2 = {
         name = 'Schafter',
         brand = 'Benefactor',
@@ -5625,7 +5625,7 @@ return {
         type = 'bike',
         hash = `scorcher`,
     },
-    scramjet = {
+    --[[scramjet = {
         name = 'Scramjet',
         brand = 'Declasse',
         model = 'scramjet',
@@ -5633,7 +5633,7 @@ return {
         category = 'super',
         type = 'automobile',
         hash = `scramjet`,
-    },
+    },--]]
     scrap = {
         name = 'Scrap Truck',
         brand = 'Vapid',
@@ -5877,7 +5877,7 @@ return {
         type = 'automobile',
         hash = `slamvan3`,
     },
-    slamvan4 = {
+    --[[slamvan4 = {
         name = 'Apocalypse Slamvan',
         brand = 'Vapid',
         model = 'slamvan4',
@@ -5903,7 +5903,7 @@ return {
         category = 'muscle',
         type = 'automobile',
         hash = `slamvan6`,
-    },
+    },--]]
     sm722 = {
         name = 'SM722',
         brand = 'Benefactor',
@@ -5985,7 +5985,7 @@ return {
         type = 'automobile',
         hash = `speedo4`,
     },
-    speedo5 = {
+    --[[speedo5 = {
         name = 'Speedo Custom',
         brand = 'Vapid',
         model = 'speedo5',
@@ -5993,7 +5993,7 @@ return {
         category = 'vans',
         type = 'automobile',
         hash = `speedo5`,
-    },
+    },--]]
     squaddie = {
         name = 'Squaddie',
         brand = 'Mammoth',
@@ -6147,7 +6147,7 @@ return {
         type = 'plane',
         hash = `strikeforce`,
     },
-    stromberg = {
+    --[[stromberg = {
         name = 'Stromberg',
         brand = 'Ocelot',
         model = 'stromberg',
@@ -6155,7 +6155,7 @@ return {
         category = 'sportsclassics',
         type = 'automobile',
         hash = `stromberg`,
-    },
+    },--]]
     stryder = {
         name = 'Stryder',
         brand = 'Nagasaki',
@@ -6417,7 +6417,7 @@ return {
         type = 'automobile',
         hash = `tampa2`,
     },
-    tampa3 = {
+    --[[tampa3 = {
         name = 'Weaponized Tampa',
         brand = 'Declasse',
         model = 'tampa3',
@@ -6425,7 +6425,7 @@ return {
         category = 'muscle',
         type = 'automobile',
         hash = `tampa3`,
-    },
+    },--]]
     tanker = {
         name = 'Tanker Trailer',
         brand = '',
@@ -6471,7 +6471,7 @@ return {
         type = 'automobile',
         hash = `technical`,
     },
-    technical2 = {
+    --[[technical2 = {
         name = 'Technical Aqua',
         brand = 'Karin',
         model = 'technical2',
@@ -6488,7 +6488,7 @@ return {
         category = 'offroad',
         type = 'automobile',
         hash = `technical3`,
-    },
+    },--]]
     tempesta = {
         name = 'Tempesta',
         brand = 'Pegassi',
@@ -6516,7 +6516,7 @@ return {
         type = 'automobile',
         hash = `tenf2`,
     },
-    terbyte = {
+    --[[terbyte = {
         name = 'Terrorbyte',
         brand = 'Benefactor',
         model = 'terbyte',
@@ -6524,7 +6524,7 @@ return {
         category = 'commercial',
         type = 'automobile',
         hash = `terbyte`,
-    },
+    },--]]
     terminus = {
         name = 'Terminus',
         brand = 'Canis',
@@ -6561,7 +6561,7 @@ return {
         type = 'bike',
         hash = `thrust`,
     },
-    thruster = {
+    --[[thruster = {
         name = 'Thruster',
         brand = 'Mammoth',
         model = 'thruster',
@@ -6569,7 +6569,7 @@ return {
         category = 'military',
         type = 'automobile',
         hash = `thruster`,
-    },
+    },--]]
     tigon = {
         name = 'Tigon',
         brand = 'Lampadati',
@@ -6606,7 +6606,7 @@ return {
         type = 'plane',
         hash = `titan`,
     },
-    toreador = {
+    --[[toreador = {
         name = 'Toreador',
         brand = 'Pegassi',
         model = 'toreador',
@@ -6614,7 +6614,7 @@ return {
         category = 'sportsclassics',
         type = 'automobile',
         hash = `toreador`,
-    },
+    },--]]
     torero = {
         name = 'Torero',
         brand = 'Pegassi',
@@ -6813,7 +6813,7 @@ return {
         type = 'automobile',
         hash = `tractor3`,
     },
-    trailerlarge = {
+    --[[trailerlarge = {
         name = 'Mobile Operations Center',
         brand = 'Pegasus',
         model = 'trailerlarge',
@@ -6821,7 +6821,7 @@ return {
         category = 'utility',
         type = 'trailer',
         hash = `trailerlarge`,
-    },
+    },--]]
     trailerlogs = {
         name = 'Trailer (Logs)',
         brand = '',
@@ -6885,7 +6885,7 @@ return {
         type = 'trailer',
         hash = `trailersmall`,
     },
-    trailersmall2 = {
+    --[[trailersmall2 = {
         name = 'Anti-Aircraft Trailer',
         brand = 'Vom Feuer',
         model = 'trailersmall2',
@@ -6893,7 +6893,7 @@ return {
         category = 'military',
         type = 'trailer',
         hash = `trailersmall2`,
-    },
+    },--]]
     trash = {
         name = 'Trashmaster',
         brand = 'Jobuilt',
@@ -7290,7 +7290,7 @@ return {
         type = 'automobile',
         hash = `vigero3`,
     },
-    vigilante = {
+    --[[vigilante = {
         name = 'Vigilante',
         brand = 'Grotti',
         model = 'vigilante',
@@ -7298,7 +7298,7 @@ return {
         category = 'super',
         type = 'automobile',
         hash = `vigilante`,
-    },
+    },--]]
     vindicator = {
         name = 'Vindicator',
         brand = 'Dinka',
@@ -7740,7 +7740,7 @@ return {
         type = 'automobile',
         hash = `zr350`,
     },
-    zr380 = {
+    --[[zr380 = {
         name = 'Apocalypse ZR380',
         brand = 'Annis',
         model = 'zr380',
@@ -7766,7 +7766,7 @@ return {
         category = 'sports',
         type = 'automobile',
         hash = `zr3803`,
-    },
+    },--]]
     ztype = {
         name = 'Z-Type',
         brand = 'Truffade',
@@ -7775,15 +7775,6 @@ return {
         category = 'sportsclassics',
         type = 'automobile',
         hash = `ztype`,
-    },
-    nkstanier = {
-        name = 'Police Stainer',
-        brand = 'Stainer',
-        model = 'nkstanier',
-        price = 0,
-        category = 'police',
-        type = 'automobile',
-        hash = `nkstanier`,
     },
     nkaleutian = {
         name = 'Police Aleutian',
